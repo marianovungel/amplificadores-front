@@ -1,0 +1,15 @@
+.newheig{
+    height: 35px;
+}
+.marginTopBut{
+    margin-top: 10px;
+}
+.newStyle{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+}
+.newStyleData{
+    height: 310px;
+}

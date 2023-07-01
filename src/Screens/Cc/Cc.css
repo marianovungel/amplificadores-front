@@ -1,0 +1,9 @@
+.topmarginForm{
+    margin-top: 10px;
+}
+.marginbottomButtom{
+    margin-top: -10px;
+}
+.newHeight, .footerContent{
+    height: 40px;
+}

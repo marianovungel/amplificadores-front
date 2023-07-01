@@ -1,0 +1,30 @@
+.Header{
+    width: 100%;
+    height: 70px;
+    /* background-color: rgb(56, 18, 91); */
+    background:linear-gradient(rgb(56, 18, 91), rgba(56, 18, 91, 0.621));
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.itemMenu{
+    margin: 0px 10px 0px 10px;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 500;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+}
+.itemMenu:hover{
+    color: rgb(228, 210, 244);
+    transition: 0.3s;
+}
+.itemMenuImg{
+    background-color: #fff;
+    height: 50px;
+    padding: 4px;
+    border-radius: 15px;
+    cursor: pointer;
+}
