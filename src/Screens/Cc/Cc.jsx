@@ -198,7 +198,7 @@ export default function Cc() {
 
     const getData = async ()=>{
         try {
-            const res = await axios.post('http://localhost:8000/chat', {
+            const res = await axios.post('https://chatgptnodejs.onrender.com/chat', {
                 prompt
             })
             setData(res.data)
