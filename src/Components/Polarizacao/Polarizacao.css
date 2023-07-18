@@ -1,0 +1,17 @@
+.ContentImg{
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    box-shadow: 1px 1px 3px 1px #ddd;
+    border-radius: 15px;
+    transform: scale(0.9);
+}
+.ContentImg:hover{
+    transform: scale(1);
+    cursor: pointer;
+    transition: 0.3s;
+    box-shadow: 1px 1px 3px 1px #999;
+}
+.addColor{
+    background-color: rgba(181, 106, 252, 0.219);
+}

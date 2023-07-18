@@ -44,7 +44,7 @@ body, html{
 }
 .imageContent{
     width: 100%;
-    margin-top: 30px;
+    margin-top: 10px;
     display: flex;
     justify-content: center;
 }
@@ -161,7 +161,7 @@ a{
 }
 .shoseItem{
     width: 40%;
-    height: 50px;
+    height: 45px;
     display: flex;
     justify-content: center;
     align-items: center;
